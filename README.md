@@ -1,6 +1,6 @@
 # PopAut: An Annotated Corpus for Populism Detection in Austrian News Comments
 
-This repository highlights the sampling process for the annotated sample published in "PopAut: An Annotated Corpus for Populism Detection in Austrian News Comments", as well as the experiments conducted.
+This repository highlights the sampling process for the annotated sample published in "PopAut: An Annotated Corpus for Populism Detection in Austrian News Comments", as well as the experiments conducted. The data set is available under the CC BY-NC-ND 4.0 license upon request at https://doi.org/10.48436/vbkwj-b8t85.
 
 **Authors:** Ahmadou Wagne, Julia Neidhardt, Thomas Elmar Kolb
 
